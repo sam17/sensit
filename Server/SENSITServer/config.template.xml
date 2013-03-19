@@ -1,0 +1,30 @@
+<config>
+  <Initialized value="False" />
+  <Admin>
+  </Admin>
+  <Log>
+    <RainfallLogDir value="" />
+    <AppLogDir value="" />
+    <WinrarDir value="" />
+  </Log>
+  <GSMComm>
+    <COMPort value="" />
+    <BaudRate value="" />
+    <StopBits value="" />
+    <Parity value="" />
+  </GSMComm>
+  <ArduinoComm>
+    <COMPort value="" />
+    <BaudRate value="" />
+    <StopBits value="" />
+    <Parity value="" />
+  </ArduinoComm>
+  <SensorList>
+  </SensorList>
+  <EmailRecipients>
+  </EmailRecipients>
+  <Parameters>
+    <NumFailedReads value="5" />
+    <NumInactiveMins value="10" />
+  </Parameters>
+</config>

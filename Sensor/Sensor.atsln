@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Sensor", "Sensor\Sensor.cppproj", "{5C3E9F23-3BD1-4F6F-AE66-E9D8CF437096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C3E9F23-3BD1-4F6F-AE66-E9D8CF437096}.Debug|AVR.ActiveCfg = Debug|AVR
+		{5C3E9F23-3BD1-4F6F-AE66-E9D8CF437096}.Debug|AVR.Build.0 = Debug|AVR
+		{5C3E9F23-3BD1-4F6F-AE66-E9D8CF437096}.Release|AVR.ActiveCfg = Release|AVR
+		{5C3E9F23-3BD1-4F6F-AE66-E9D8CF437096}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

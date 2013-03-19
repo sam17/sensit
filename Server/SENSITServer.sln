@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SENSITServer", "SENSITServer\SENSITServer.csproj", "{51C3927C-D242-4B6A-96EE-632FE71AF976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorEmulator", "SensorEmulator\SensorEmulator.csproj", "{31F4FA53-7FAC-49DF-B6E9-7E56AF23A3E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPortTest", "SPortTest\SPortTest.csproj", "{E7EAEC72-FE37-482A-A55F-231D301389DD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SENSITServerInstaller", "SENSITServerInstaller\SENSITServerInstaller.vdproj", "{AE91AA83-41E3-410C-85FA-8971D7E67179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMModemEmulator", "GSMModemEmulator\GSMModemEmulator.csproj", "{E021CF84-EF68-40D1-94C4-BA344795B378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C3927C-D242-4B6A-96EE-632FE71AF976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C3927C-D242-4B6A-96EE-632FE71AF976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C3927C-D242-4B6A-96EE-632FE71AF976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C3927C-D242-4B6A-96EE-632FE71AF976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F4FA53-7FAC-49DF-B6E9-7E56AF23A3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F4FA53-7FAC-49DF-B6E9-7E56AF23A3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F4FA53-7FAC-49DF-B6E9-7E56AF23A3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F4FA53-7FAC-49DF-B6E9-7E56AF23A3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7EAEC72-FE37-482A-A55F-231D301389DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EAEC72-FE37-482A-A55F-231D301389DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EAEC72-FE37-482A-A55F-231D301389DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EAEC72-FE37-482A-A55F-231D301389DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE91AA83-41E3-410C-85FA-8971D7E67179}.Debug|Any CPU.ActiveCfg = Debug
+		{AE91AA83-41E3-410C-85FA-8971D7E67179}.Release|Any CPU.ActiveCfg = Release
+		{E021CF84-EF68-40D1-94C4-BA344795B378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E021CF84-EF68-40D1-94C4-BA344795B378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E021CF84-EF68-40D1-94C4-BA344795B378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E021CF84-EF68-40D1-94C4-BA344795B378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
