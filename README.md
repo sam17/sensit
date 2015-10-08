@@ -1,4 +1,4 @@
-This repo contains the code to be used in the IBM project SENSIT under the Civil Engineering Department.  
+This repo contains the code which was used in the IBM project SENSIT under the Civil Engineering Department.  
 
 Folder Server contains the C# solution SENSITServer, which in turn contains the following projects:  
 
